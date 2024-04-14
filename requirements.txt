@@ -1,0 +1,10 @@
+emoji
+pandas
+Pillow
+python-telegram-bot
+XlsxWriter
+SQLAlchemy
+psutil
+python-telegram-bot-calendar
+holidays
+openpyxl
